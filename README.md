@@ -1,2 +1,1 @@
-# cpuminer-multi
-cpuminer-multi
+# miner
